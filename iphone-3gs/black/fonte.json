@@ -1,0 +1,90 @@
+{
+  "modelo": "iPhone 3GS",
+  "cor": "Black",
+  "arquivo": "iphone-3gs/black/imagem.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/IPhone_3GS_%28black%29_with_screen_down.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "origem": "https://commons.wikimedia.org/wiki/File:IPhone_3GS_(black)_with_screen_down.jpg",
+  "credito": "originalgoat",
+  "licenca": "CC BY-SA 1.0",
+  "licenca_url": "https://creativecommons.org/licenses/by-sa/1.0",
+  "meta": {
+    "DateTime": {
+      "value": "2012-03-20 13:10:08",
+      "source": "mediawiki-metadata",
+      "hidden": ""
+    },
+    "ObjectName": {
+      "value": "IPhone 3GS (black) with screen down",
+      "source": "mediawiki-metadata"
+    },
+    "CommonsMetadataExtension": {
+      "value": 1.2,
+      "source": "extension",
+      "hidden": ""
+    },
+    "Categories": {
+      "value": "IPhone 3GS|Uploaded with en.wp upload wizard|Files tagged CC-by-sa-old|Black mobile phones|Backs of iPhones",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "Assessments": {
+      "value": "",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "ImageDescription": {
+      "value": "<a class=\"external free\" data-mw-original-href=\"http://de.wikipedia.org/wiki/Apple_iPhone_3GS\" href=\"https://de.wikipedia.org/wiki/Apple_iPhone_3GS\">http://de.wikipedia.org/wiki/Apple_iPhone_3GS</a>\nThis file shows an Iphone 3GS which is laying on a laptop with the screen down. You can see the black back cover of the phone clearly.",
+      "source": "commons-desc-page"
+    },
+    "DateTimeOriginal": {
+      "value": "2007-07-15",
+      "source": "commons-desc-page"
+    },
+    "Credit": {
+      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/\">https://www.flickr.com/</a>",
+      "source": "commons-desc-page"
+    },
+    "Artist": {
+      "value": "originalgoat",
+      "source": "commons-desc-page"
+    },
+    "Permission": {
+      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/originalgoast/2671669130/\">https://www.flickr.com/photos/originalgoast/2671669130/</a>",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "LicenseShortName": {
+      "value": "CC BY-SA 1.0",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "UsageTerms": {
+      "value": "Creative Commons Attribution-Share Alike 1.0",
+      "source": "commons-desc-page"
+    },
+    "AttributionRequired": {
+      "value": "true",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "LicenseUrl": {
+      "value": "https://creativecommons.org/licenses/by-sa/1.0",
+      "source": "commons-desc-page"
+    },
+    "Copyrighted": {
+      "value": "True",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Restrictions": {
+      "value": "",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "License": {
+      "value": "cc-by-sa-1.0",
+      "source": "commons-templates",
+      "hidden": ""
+    }
+  }
+}

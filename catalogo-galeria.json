@@ -1,0 +1,1701 @@
+[
+  {
+    "name": "iPhone Duo",
+    "year": "2026",
+    "image": "iphone-duo/todas-as-cores.png",
+    "colors": [
+      {
+        "name": "Night Sky",
+        "hex": "#394452",
+        "image": "iphone-duo/night-sky/imagem.png",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone19,4/Night Sky.png"
+      },
+      {
+        "name": "Star White",
+        "hex": "#F7F6F5",
+        "image": "iphone-duo/star-white/imagem.png",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone19,4/Star White.png"
+      }
+    ]
+  },
+  {
+    "name": "iPhone 18 Pro Max",
+    "year": "2026",
+    "image": "iphone-18-pro-max/todas-as-cores.png",
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#3C3C3C",
+        "image": "iphone-18-pro-max/black/imagem.png",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone19,3/Black.png"
+      },
+      {
+        "name": "Burgundy",
+        "hex": "#4D1822",
+        "image": "iphone-18-pro-max/burgundy/imagem.png",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone19,3/Burgundy.png"
+      },
+      {
+        "name": "Glacier",
+        "hex": "#E8F2FE",
+        "image": "iphone-18-pro-max/glacier/imagem.png",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone19,3/Glacier.png"
+      },
+      {
+        "name": "Silver",
+        "hex": "#F7F7F7",
+        "image": "iphone-18-pro-max/silver/imagem.png",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone19,3/Silver.png"
+      }
+    ]
+  },
+  {
+    "name": "iPhone 18 Pro",
+    "year": "2026",
+    "image": "iphone-18-pro/todas-as-cores.png",
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#3C3C3C",
+        "image": "iphone-18-pro/black/imagem.png",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone19,2/Black.png"
+      },
+      {
+        "name": "Burgundy",
+        "hex": "#4D1822",
+        "image": "iphone-18-pro/burgundy/imagem.png",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone19,2/Burgundy.png"
+      },
+      {
+        "name": "Glacier",
+        "hex": "#E8F2FE",
+        "image": "iphone-18-pro/glacier/imagem.png",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone19,2/Glacier.png"
+      },
+      {
+        "name": "Silver",
+        "hex": "#F7F7F7",
+        "image": "iphone-18-pro/silver/imagem.png",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone19,2/Silver.png"
+      }
+    ]
+  },
+  {
+    "name": "iPhone 17e",
+    "year": "2026",
+    "image": "iphone-17e/todas-as-cores.png",
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#404040",
+        "image": "iphone-17e/black/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone18,5/Black.png"
+      },
+      {
+        "name": "Soft Pink",
+        "hex": "#FCE7E6",
+        "image": "iphone-17e/soft-pink/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone18,5/Soft Pink.png"
+      },
+      {
+        "name": "White",
+        "hex": "#F6F6F4",
+        "image": "iphone-17e/white/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone18,5/White.png"
+      }
+    ]
+  },
+  {
+    "name": "iPhone 17 Pro Max",
+    "year": "2025",
+    "image": "iphone-17-pro-max/todas-as-cores.png",
+    "colors": [
+      {
+        "name": "Cosmic Orange",
+        "hex": "#F8833E",
+        "image": "iphone-17-pro-max/cosmic-orange/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone18,2/Cosmic Orange.png"
+      },
+      {
+        "name": "Deep Blue",
+        "hex": "#4A5680",
+        "image": "iphone-17-pro-max/deep-blue/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone18,2/Deep Blue.png"
+      },
+      {
+        "name": "Silver",
+        "hex": "#E7E7E7",
+        "image": "iphone-17-pro-max/silver/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone18,2/Silver.png"
+      }
+    ]
+  },
+  {
+    "name": "iPhone 17 Pro",
+    "year": "2025",
+    "image": "iphone-17-pro/todas-as-cores.png",
+    "colors": [
+      {
+        "name": "Cosmic Orange",
+        "hex": "#F8833E",
+        "image": "iphone-17-pro/cosmic-orange/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone18,1/Cosmic Orange.png"
+      },
+      {
+        "name": "Deep Blue",
+        "hex": "#4A5680",
+        "image": "iphone-17-pro/deep-blue/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone18,1/Deep Blue.png"
+      },
+      {
+        "name": "Silver",
+        "hex": "#E7E7E7",
+        "image": "iphone-17-pro/silver/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone18,1/Silver.png"
+      }
+    ]
+  },
+  {
+    "name": "iPhone 17",
+    "year": "2025",
+    "image": "iphone-17/todas-as-cores.png",
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#464747",
+        "image": "iphone-17/black/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone18,3/Black.png"
+      },
+      {
+        "name": "Lavender",
+        "hex": "#E7D7F2",
+        "image": "iphone-17/lavender/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone18,3/Lavender.png"
+      },
+      {
+        "name": "Mist Blue",
+        "hex": "#A6BDDD",
+        "image": "iphone-17/mist-blue/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone18,3/Mist Blue.png"
+      },
+      {
+        "name": "Sage",
+        "hex": "#BAC79C",
+        "image": "iphone-17/sage/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone18,3/Sage.png"
+      },
+      {
+        "name": "White",
+        "hex": "#F7F7F5",
+        "image": "iphone-17/white/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone18,3/White.png"
+      }
+    ]
+  },
+  {
+    "name": "iPhone Air",
+    "year": "2025",
+    "image": "iphone-air/todas-as-cores.png",
+    "colors": [
+      {
+        "name": "Cloud White",
+        "hex": "#FCFCFC",
+        "image": "iphone-air/cloud-white/imagem.png",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone18,4/Cloud White.png"
+      },
+      {
+        "name": "Light Gold",
+        "hex": "#FAF2E5",
+        "image": "iphone-air/light-gold/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone18,4/Light Gold.png"
+      },
+      {
+        "name": "Sky Blue",
+        "hex": "#E5F2FA",
+        "image": "iphone-air/sky-blue/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone18,4/Sky Blue.png"
+      },
+      {
+        "name": "Space Black",
+        "hex": "#0E0E0E",
+        "image": "iphone-air/space-black/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone18,4/Space Black.png"
+      }
+    ]
+  },
+  {
+    "name": "iPhone 16e",
+    "year": "2025",
+    "image": "iphone-16e/todas-as-cores.png",
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#404040",
+        "image": "iphone-16e/black/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone17,5/Black.png"
+      },
+      {
+        "name": "White",
+        "hex": "#F6F6F4",
+        "image": "iphone-16e/white/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone17,5/White.png"
+      }
+    ]
+  },
+  {
+    "name": "iPhone 16 Pro Max",
+    "year": "2024",
+    "image": "iphone-16-pro-max/todas-as-cores.png",
+    "colors": [
+      {
+        "name": "Black Titanium",
+        "hex": "#4F4F4F",
+        "image": "iphone-16-pro-max/black-titanium/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone17,2/Black Titanium.png"
+      },
+      {
+        "name": "Desert Titanium",
+        "hex": "#EBD8C8",
+        "image": "iphone-16-pro-max/desert-titanium/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone17,2/Desert Titanium.png"
+      },
+      {
+        "name": "Natural Titanium",
+        "hex": "#CBC7C0",
+        "image": "iphone-16-pro-max/natural-titanium/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone17,2/Natural Titanium.png"
+      },
+      {
+        "name": "White Titanium",
+        "hex": "#ECECEA",
+        "image": "iphone-16-pro-max/white-titanium/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone17,2/White Titanium.png"
+      }
+    ]
+  },
+  {
+    "name": "iPhone 16 Pro",
+    "year": "2024",
+    "image": "iphone-16-pro/todas-as-cores.png",
+    "colors": [
+      {
+        "name": "Black Titanium",
+        "hex": "#4F4F4F",
+        "image": "iphone-16-pro/black-titanium/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone17,1/Black Titanium.png"
+      },
+      {
+        "name": "Desert Titanium",
+        "hex": "#EBD8C8",
+        "image": "iphone-16-pro/desert-titanium/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone17,1/Desert Titanium.png"
+      },
+      {
+        "name": "Natural Titanium",
+        "hex": "#CBC7C0",
+        "image": "iphone-16-pro/natural-titanium/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone17,1/Natural Titanium.png"
+      },
+      {
+        "name": "White Titanium",
+        "hex": "#ECECEA",
+        "image": "iphone-16-pro/white-titanium/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone17,1/White Titanium.png"
+      }
+    ]
+  },
+  {
+    "name": "iPhone 16 Plus",
+    "year": "2024",
+    "image": "iphone-16-plus/todas-as-cores.png",
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#464747",
+        "image": "iphone-16-plus/black/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone17,4/Black.png"
+      },
+      {
+        "name": "Pink",
+        "hex": "#F1A8D8",
+        "image": "iphone-16-plus/pink/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone17,4/Pink.png"
+      },
+      {
+        "name": "Teal",
+        "hex": "#AFD4D2",
+        "image": "iphone-16-plus/teal/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone17,4/Teal.png"
+      },
+      {
+        "name": "Ultramarine",
+        "hex": "#94A6F1",
+        "image": "iphone-16-plus/ultramarine/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone17,4/Ultramarine.png"
+      },
+      {
+        "name": "White",
+        "hex": "#F7F7F5",
+        "image": "iphone-16-plus/white/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone17,4/White.png"
+      }
+    ]
+  },
+  {
+    "name": "iPhone 16",
+    "year": "2024",
+    "image": "iphone-16/todas-as-cores.png",
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#464747",
+        "image": "iphone-16/black/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone17,3/Black.png"
+      },
+      {
+        "name": "Pink",
+        "hex": "#F1A8D8",
+        "image": "iphone-16/pink/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone17,3/Pink.png"
+      },
+      {
+        "name": "Teal",
+        "hex": "#AFD4D2",
+        "image": "iphone-16/teal/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone17,3/Teal.png"
+      },
+      {
+        "name": "Ultramarine",
+        "hex": "#94A6F1",
+        "image": "iphone-16/ultramarine/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone17,3/Ultramarine.png"
+      },
+      {
+        "name": "White",
+        "hex": "#F7F7F5",
+        "image": "iphone-16/white/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone17,3/White.png"
+      }
+    ]
+  },
+  {
+    "name": "iPhone 15 Pro Max",
+    "year": "2023",
+    "image": "iphone-15-pro-max/todas-as-cores.png",
+    "colors": [
+      {
+        "name": "Black Titanium",
+        "hex": "#464646",
+        "image": "iphone-15-pro-max/black-titanium/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone16,2/Black Titanium.png"
+      },
+      {
+        "name": "Blue Titanium",
+        "hex": "#545A66",
+        "image": "iphone-15-pro-max/blue-titanium/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone16,2/Blue Titanium.png"
+      },
+      {
+        "name": "Natural Titanium",
+        "hex": "#A6A29B",
+        "image": "iphone-15-pro-max/natural-titanium/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone16,2/Natural Titanium.png"
+      },
+      {
+        "name": "White Titanium",
+        "hex": "#EEEAE6",
+        "image": "iphone-15-pro-max/white-titanium/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone16,2/White Titanium.png"
+      }
+    ]
+  },
+  {
+    "name": "iPhone 15 Pro",
+    "year": "2023",
+    "image": "iphone-15-pro/todas-as-cores.png",
+    "colors": [
+      {
+        "name": "Black Titanium",
+        "hex": "#464646",
+        "image": "iphone-15-pro/black-titanium/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone16,1/Black Titanium.png"
+      },
+      {
+        "name": "Blue Titanium",
+        "hex": "#545A66",
+        "image": "iphone-15-pro/blue-titanium/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone16,1/Blue Titanium.png"
+      },
+      {
+        "name": "Natural Titanium",
+        "hex": "#A6A29B",
+        "image": "iphone-15-pro/natural-titanium/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone16,1/Natural Titanium.png"
+      },
+      {
+        "name": "White Titanium",
+        "hex": "#EEEAE6",
+        "image": "iphone-15-pro/white-titanium/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone16,1/White Titanium.png"
+      }
+    ]
+  },
+  {
+    "name": "iPhone 15 Plus",
+    "year": "2023",
+    "image": "iphone-15-plus/todas-as-cores.png",
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#4E4F4E",
+        "image": "iphone-15-plus/black/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone15,5/Black.png"
+      },
+      {
+        "name": "Blue",
+        "hex": "#F3F8F8",
+        "image": "iphone-15-plus/blue/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone15,5/Blue.png"
+      },
+      {
+        "name": "Green",
+        "hex": "#F3F8E8",
+        "image": "iphone-15-plus/green/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone15,5/Green.png"
+      },
+      {
+        "name": "Pink",
+        "hex": "#FCE8E8",
+        "image": "iphone-15-plus/pink/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone15,5/Pink.png"
+      },
+      {
+        "name": "Yellow",
+        "hex": "#FCFBE4",
+        "image": "iphone-15-plus/yellow/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone15,5/Yellow.png"
+      }
+    ]
+  },
+  {
+    "name": "iPhone 15",
+    "year": "2023",
+    "image": "iphone-15/todas-as-cores.png",
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#4E4F4E",
+        "image": "iphone-15/black/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone15,4/Black.png"
+      },
+      {
+        "name": "Blue",
+        "hex": "#F3F8F8",
+        "image": "iphone-15/blue/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone15,4/Blue.png"
+      },
+      {
+        "name": "Green",
+        "hex": "#F3F8E8",
+        "image": "iphone-15/green/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone15,4/Green.png"
+      },
+      {
+        "name": "Pink",
+        "hex": "#FCE8E8",
+        "image": "iphone-15/pink/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone15,4/Pink.png"
+      },
+      {
+        "name": "Yellow",
+        "hex": "#FCFBE4",
+        "image": "iphone-15/yellow/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone15,4/Yellow.png"
+      }
+    ]
+  },
+  {
+    "name": "iPhone 14 Pro Max",
+    "year": "2022",
+    "image": "iphone-14-pro-max/todas-as-cores.png",
+    "colors": [
+      {
+        "name": "Deep Purple",
+        "hex": "#595261",
+        "image": "iphone-14-pro-max/deep-purple/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone15,3/Deep Purple.png"
+      },
+      {
+        "name": "Gold",
+        "hex": "#F3E6CC",
+        "image": "iphone-14-pro-max/gold/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone15,3/Gold.png"
+      },
+      {
+        "name": "Silver",
+        "hex": "#F0F2F2",
+        "image": "iphone-14-pro-max/silver/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone15,3/Silver.png"
+      },
+      {
+        "name": "Space Black",
+        "hex": "#3B3937",
+        "image": "iphone-14-pro-max/space-black/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone15,3/Space Black.png"
+      }
+    ]
+  },
+  {
+    "name": "iPhone 14 Pro",
+    "year": "2022",
+    "image": "iphone-14-pro/todas-as-cores.png",
+    "colors": [
+      {
+        "name": "Deep Purple",
+        "hex": "#595261",
+        "image": "iphone-14-pro/deep-purple/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone15,2/Deep Purple.png"
+      },
+      {
+        "name": "Gold",
+        "hex": "#F3E6CC",
+        "image": "iphone-14-pro/gold/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone15,2/Gold.png"
+      },
+      {
+        "name": "Silver",
+        "hex": "#F0F2F2",
+        "image": "iphone-14-pro/silver/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone15,2/Silver.png"
+      },
+      {
+        "name": "Space Black",
+        "hex": "#3B3937",
+        "image": "iphone-14-pro/space-black/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone15,2/Space Black.png"
+      }
+    ]
+  },
+  {
+    "name": "iPhone 14 Plus",
+    "year": "2022",
+    "image": "iphone-14-plus/todas-as-cores.png",
+    "colors": [
+      {
+        "name": "Blue",
+        "hex": "#A8B8C8",
+        "image": "iphone-14-plus/blue/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone14,8/Blue.png"
+      },
+      {
+        "name": "Midnight",
+        "hex": "#192928",
+        "image": "iphone-14-plus/midnight/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone14,8/Midnight.png"
+      },
+      {
+        "name": "(PRODUCT)RED",
+        "hex": "#F80628",
+        "image": "iphone-14-plus/product-red/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone14,8/(PRODUCT)RED.png"
+      },
+      {
+        "name": "Purple",
+        "hex": "#E8D8E8",
+        "image": "iphone-14-plus/purple/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone14,8/Purple.png"
+      },
+      {
+        "name": "Starlight",
+        "hex": "#F8F8E7",
+        "image": "iphone-14-plus/starlight/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone14,8/Starlight.png"
+      },
+      {
+        "name": "Yellow",
+        "hex": "#F8D868",
+        "image": "iphone-14-plus/yellow/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone14,8/Yellow.png"
+      }
+    ]
+  },
+  {
+    "name": "iPhone 14",
+    "year": "2022",
+    "image": "iphone-14/todas-as-cores.png",
+    "colors": [
+      {
+        "name": "Blue",
+        "hex": "#A8B8C8",
+        "image": "iphone-14/blue/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone14,7/Blue.png"
+      },
+      {
+        "name": "Midnight",
+        "hex": "#192928",
+        "image": "iphone-14/midnight/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone14,7/Midnight.png"
+      },
+      {
+        "name": "(PRODUCT)RED",
+        "hex": "#F80628",
+        "image": "iphone-14/product-red/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone14,7/(PRODUCT)RED.png"
+      },
+      {
+        "name": "Purple",
+        "hex": "#E8D8E8",
+        "image": "iphone-14/purple/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone14,7/Purple.png"
+      },
+      {
+        "name": "Starlight",
+        "hex": "#F8F8E7",
+        "image": "iphone-14/starlight/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone14,7/Starlight.png"
+      },
+      {
+        "name": "Yellow",
+        "hex": "#F8D868",
+        "image": "iphone-14/yellow/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone14,7/Yellow.png"
+      }
+    ]
+  },
+  {
+    "name": "iPhone SE (3rd generation)",
+    "year": "2022",
+    "image": "iphone-se-3rd-generation/todas-as-cores.png",
+    "colors": [
+      {
+        "name": "Midnight",
+        "hex": "#161E24",
+        "image": "iphone-se-3rd-generation/midnight/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone14,6/Midnight.png"
+      },
+      {
+        "name": "(PRODUCT)RED",
+        "hex": "#A10415",
+        "image": "iphone-se-3rd-generation/product-red/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone14,6/(PRODUCT)RED.png"
+      },
+      {
+        "name": "Starlight",
+        "hex": "#F7F2EE",
+        "image": "iphone-se-3rd-generation/starlight/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone14,6/Starlight.png"
+      }
+    ]
+  },
+  {
+    "name": "iPhone 13 Pro Max",
+    "year": "2021",
+    "image": "iphone-13-pro-max/todas-as-cores.png",
+    "colors": [
+      {
+        "name": "Alpine Green",
+        "hex": "#546554",
+        "image": "iphone-13-pro-max/alpine-green/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone14,3/Alpine Green.png"
+      },
+      {
+        "name": "Gold",
+        "hex": "#F6E4C7",
+        "image": "iphone-13-pro-max/gold/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone14,3/Gold.png"
+      },
+      {
+        "name": "Graphite",
+        "hex": "#4C4C4A",
+        "image": "iphone-13-pro-max/graphite/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone14,3/Graphite.png"
+      },
+      {
+        "name": "Sierra Blue",
+        "hex": "#93A9C0",
+        "image": "iphone-13-pro-max/sierra-blue/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone14,3/Sierra Blue.png"
+      },
+      {
+        "name": "Silver",
+        "hex": "#F1F1E7",
+        "image": "iphone-13-pro-max/silver/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone14,3/Silver.png"
+      }
+    ]
+  },
+  {
+    "name": "iPhone 13 Pro",
+    "year": "2021",
+    "image": "iphone-13-pro/todas-as-cores.png",
+    "colors": [
+      {
+        "name": "Alpine Green",
+        "hex": "#546554",
+        "image": "iphone-13-pro/alpine-green/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone14,2/Alpine Green.png"
+      },
+      {
+        "name": "Gold",
+        "hex": "#F6E4C7",
+        "image": "iphone-13-pro/gold/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone14,2/Gold.png"
+      },
+      {
+        "name": "Graphite",
+        "hex": "#4C4C4A",
+        "image": "iphone-13-pro/graphite/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone14,2/Graphite.png"
+      },
+      {
+        "name": "Sierra Blue",
+        "hex": "#93A9C0",
+        "image": "iphone-13-pro/sierra-blue/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone14,2/Sierra Blue.png"
+      },
+      {
+        "name": "Silver",
+        "hex": "#F1F1E7",
+        "image": "iphone-13-pro/silver/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone14,2/Silver.png"
+      }
+    ]
+  },
+  {
+    "name": "iPhone 13",
+    "year": "2021",
+    "image": "iphone-13/todas-as-cores.png",
+    "colors": [
+      {
+        "name": "Blue",
+        "hex": "#235D7B",
+        "image": "iphone-13/blue/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone14,5/Blue.png"
+      },
+      {
+        "name": "Green",
+        "hex": "#334434",
+        "image": "iphone-13/green/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone14,5/Green.png"
+      },
+      {
+        "name": "Midnight",
+        "hex": "#151D23",
+        "image": "iphone-13/midnight/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone14,5/Midnight.png"
+      },
+      {
+        "name": "Pink",
+        "hex": "#FCDDD8",
+        "image": "iphone-13/pink/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone14,5/Pink.png"
+      },
+      {
+        "name": "(PRODUCT)RED",
+        "hex": "#96060D",
+        "image": "iphone-13/product-red/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone14,5/(PRODUCT)RED.png"
+      },
+      {
+        "name": "Starlight",
+        "hex": "#F9F4EE",
+        "image": "iphone-13/starlight/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone14,5/Starlight.png"
+      }
+    ]
+  },
+  {
+    "name": "iPhone 13 mini",
+    "year": "2021",
+    "image": "iphone-13-mini/todas-as-cores.png",
+    "colors": [
+      {
+        "name": "Blue",
+        "hex": "#235D7B",
+        "image": "iphone-13-mini/blue/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone14,4/Blue.png"
+      },
+      {
+        "name": "Green",
+        "hex": "#334434",
+        "image": "iphone-13-mini/green/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone14,4/Green.png"
+      },
+      {
+        "name": "Midnight",
+        "hex": "#151D23",
+        "image": "iphone-13-mini/midnight/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone14,4/Midnight.png"
+      },
+      {
+        "name": "Pink",
+        "hex": "#FCDDD8",
+        "image": "iphone-13-mini/pink/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone14,4/Pink.png"
+      },
+      {
+        "name": "(PRODUCT)RED",
+        "hex": "#96060D",
+        "image": "iphone-13-mini/product-red/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone14,4/(PRODUCT)RED.png"
+      },
+      {
+        "name": "Starlight",
+        "hex": "#F9F4EE",
+        "image": "iphone-13-mini/starlight/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone14,4/Starlight.png"
+      }
+    ]
+  },
+  {
+    "name": "iPhone 12 Pro Max",
+    "year": "2020",
+    "image": "iphone-12-pro-max/todas-as-cores.jpg",
+    "colors": [
+      {
+        "name": "Gold",
+        "hex": "#FCEFD9",
+        "image": "iphone-12-pro-max/gold/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone13,4/Gold.png"
+      },
+      {
+        "name": "Graphite",
+        "hex": "#494846",
+        "image": "iphone-12-pro-max/graphite/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone13,4/Graphite.png"
+      },
+      {
+        "name": "Pacific Blue",
+        "hex": "#304B55",
+        "image": "iphone-12-pro-max/pacific-blue/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone13,4/Pacific Blue.png"
+      },
+      {
+        "name": "Silver",
+        "hex": "#F3F4F0",
+        "image": "iphone-12-pro-max/silver/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone13,4/Silver.png"
+      }
+    ]
+  },
+  {
+    "name": "iPhone 12 Pro",
+    "year": "2020",
+    "image": "iphone-12-pro/todas-as-cores.jpg",
+    "colors": [
+      {
+        "name": "Gold",
+        "hex": "#FCEFD9",
+        "image": "iphone-12-pro/gold/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone13,3/Gold.png"
+      },
+      {
+        "name": "Graphite",
+        "hex": "#494846",
+        "image": "iphone-12-pro/graphite/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone13,3/Graphite.png"
+      },
+      {
+        "name": "Pacific Blue",
+        "hex": "#304B55",
+        "image": "iphone-12-pro/pacific-blue/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone13,3/Pacific Blue.png"
+      },
+      {
+        "name": "Silver",
+        "hex": "#F3F4F0",
+        "image": "iphone-12-pro/silver/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone13,3/Silver.png"
+      }
+    ]
+  },
+  {
+    "name": "iPhone 12",
+    "year": "2020",
+    "image": "iphone-12/todas-as-cores.png",
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#221C24",
+        "image": "iphone-12/black/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone13,2/Black.png"
+      },
+      {
+        "name": "Blue",
+        "hex": "#033356",
+        "image": "iphone-12/blue/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone13,2/Blue.png"
+      },
+      {
+        "name": "Green",
+        "hex": "#DDF4D8",
+        "image": "iphone-12/green/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone13,2/Green.png"
+      },
+      {
+        "name": "(PRODUCT)RED",
+        "hex": "#DF3434",
+        "image": "iphone-12/product-red/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone13,2/(PRODUCT)RED.png"
+      },
+      {
+        "name": "Purple",
+        "hex": "#AFA9DF",
+        "image": "iphone-12/purple/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone13,2/Purple.png"
+      },
+      {
+        "name": "White",
+        "hex": "#FDF4F4",
+        "image": "iphone-12/white/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone13,2/White.png"
+      }
+    ]
+  },
+  {
+    "name": "iPhone 12 mini",
+    "year": "2020",
+    "image": "iphone-12-mini/todas-as-cores.png",
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#221C24",
+        "image": "iphone-12-mini/black/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone13,1/Black.png"
+      },
+      {
+        "name": "Blue",
+        "hex": "#033356",
+        "image": "iphone-12-mini/blue/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone13,1/Blue.png"
+      },
+      {
+        "name": "Green",
+        "hex": "#DDF4D8",
+        "image": "iphone-12-mini/green/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone13,1/Green.png"
+      },
+      {
+        "name": "(PRODUCT)RED",
+        "hex": "#DF3434",
+        "image": "iphone-12-mini/product-red/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone13,1/(PRODUCT)RED.png"
+      },
+      {
+        "name": "Purple",
+        "hex": "#AFA9DF",
+        "image": "iphone-12-mini/purple/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone13,1/Purple.png"
+      },
+      {
+        "name": "White",
+        "hex": "#FDF4F4",
+        "image": "iphone-12-mini/white/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone13,1/White.png"
+      }
+    ]
+  },
+  {
+    "name": "iPhone SE (2nd generation)",
+    "year": "2020",
+    "image": "iphone-se-2nd-generation/todas-as-cores.jpg",
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#1D1D1F",
+        "image": "iphone-se-2nd-generation/black/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone12,8/Black.png"
+      },
+      {
+        "name": "(PRODUCT)RED",
+        "hex": "#AF0125",
+        "image": "iphone-se-2nd-generation/product-red/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone12,8/(PRODUCT)RED.png"
+      },
+      {
+        "name": "White",
+        "hex": "#F1F1F1",
+        "image": "iphone-se-2nd-generation/white/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone12,8/White.png"
+      }
+    ]
+  },
+  {
+    "name": "iPhone 11 Pro",
+    "year": "2019",
+    "image": "iphone-11-pro/todas-as-cores.jpg",
+    "colors": [
+      {
+        "name": "Gold",
+        "hex": "#F4D2B9",
+        "image": "iphone-11-pro/gold/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone12,3/Gold.png"
+      },
+      {
+        "name": "Midnight Green",
+        "hex": "#414A46",
+        "image": "iphone-11-pro/midnight-green/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone12,3/Midnight Green.png"
+      },
+      {
+        "name": "Silver",
+        "hex": "#E0E0D8",
+        "image": "iphone-11-pro/silver/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone12,3/Silver.png"
+      },
+      {
+        "name": "Space Gray",
+        "hex": "#3A3839",
+        "image": "iphone-11-pro/space-gray/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone12,3/Space Gray.png"
+      }
+    ]
+  },
+  {
+    "name": "iPhone 11 Pro Max",
+    "year": "2019",
+    "image": "iphone-11-pro-max/todas-as-cores.jpg",
+    "colors": [
+      {
+        "name": "Gold",
+        "hex": "#F4D2B9",
+        "image": "iphone-11-pro-max/gold/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone12,5/Gold.png"
+      },
+      {
+        "name": "Midnight Green",
+        "hex": "#414A46",
+        "image": "iphone-11-pro-max/midnight-green/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone12,5/Midnight Green.png"
+      },
+      {
+        "name": "Silver",
+        "hex": "#E0E0D8",
+        "image": "iphone-11-pro-max/silver/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone12,5/Silver.png"
+      },
+      {
+        "name": "Space Gray",
+        "hex": "#3A3839",
+        "image": "iphone-11-pro-max/space-gray/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone12,5/Space Gray.png"
+      }
+    ]
+  },
+  {
+    "name": "iPhone 11",
+    "year": "2019",
+    "image": "iphone-11/todas-as-cores.jpg",
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#1E1E1E",
+        "image": "iphone-11/black/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone12,1/Black.png"
+      },
+      {
+        "name": "Green",
+        "hex": "#ABDDCA",
+        "image": "iphone-11/green/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone12,1/Green.png"
+      },
+      {
+        "name": "(PRODUCT)RED",
+        "hex": "#B6062A",
+        "image": "iphone-11/product-red/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone12,1/(PRODUCT)RED.png"
+      },
+      {
+        "name": "Purple",
+        "hex": "#D7D1E0",
+        "image": "iphone-11/purple/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone12,1/Purple.png"
+      },
+      {
+        "name": "White",
+        "hex": "#FBF9F2",
+        "image": "iphone-11/white/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone12,1/White.png"
+      },
+      {
+        "name": "Yellow",
+        "hex": "#FEE581",
+        "image": "iphone-11/yellow/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone12,1/Yellow.png"
+      }
+    ]
+  },
+  {
+    "name": "iPhone XS",
+    "year": "2018",
+    "image": "iphone-xs/todas-as-cores.jpg",
+    "colors": [
+      {
+        "name": "Gold",
+        "hex": "#FBDBC4",
+        "image": "iphone-xs/gold/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone11,2/Gold.png"
+      },
+      {
+        "name": "Silver",
+        "hex": "#E4E4E2",
+        "image": "iphone-xs/silver/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone11,2/Silver.png"
+      },
+      {
+        "name": "Space Gray",
+        "hex": "#222329",
+        "image": "iphone-xs/space-gray/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone11,2/Space Gray.png"
+      }
+    ]
+  },
+  {
+    "name": "iPhone XS Max",
+    "year": "2018",
+    "image": "iphone-xs-max/todas-as-cores.jpg",
+    "colors": [
+      {
+        "name": "Gold",
+        "hex": "#FBDBC4",
+        "image": "iphone-xs-max/gold/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone11,6/Gold.png"
+      },
+      {
+        "name": "Silver",
+        "hex": "#E4E4E2",
+        "image": "iphone-xs-max/silver/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone11,6/Silver.png"
+      },
+      {
+        "name": "Space Gray",
+        "hex": "#222329",
+        "image": "iphone-xs-max/space-gray/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone11,6/Space Gray.png"
+      }
+    ]
+  },
+  {
+    "name": "iPhone XR",
+    "year": "2018",
+    "image": "iphone-xr/todas-as-cores.jpg",
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#212123",
+        "image": "iphone-xr/black/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone11,8/Black.png"
+      },
+      {
+        "name": "Blue",
+        "hex": "#45ACE7",
+        "image": "iphone-xr/blue/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone11,8/Blue.png"
+      },
+      {
+        "name": "Coral",
+        "hex": "#FD624E",
+        "image": "iphone-xr/coral/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone11,8/Coral.png"
+      },
+      {
+        "name": "(PRODUCT)RED",
+        "hex": "#9A0114",
+        "image": "iphone-xr/product-red/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone11,8/(PRODUCT)RED.png"
+      },
+      {
+        "name": "White",
+        "hex": "#F9F9F9",
+        "image": "iphone-xr/white/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone11,8/White.png"
+      },
+      {
+        "name": "Yellow",
+        "hex": "#F7CF49",
+        "image": "iphone-xr/yellow/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone11,8/Yellow.png"
+      }
+    ]
+  },
+  {
+    "name": "iPhone X",
+    "year": "2017",
+    "image": "iphone-x/todas-as-cores.jpg",
+    "colors": [
+      {
+        "name": "Silver",
+        "hex": "#E3E3E1",
+        "image": "iphone-x/silver/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone10,3/Silver.png"
+      },
+      {
+        "name": "Space Gray",
+        "hex": "#26272C",
+        "image": "iphone-x/space-gray/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone10,3/Space Gray.png"
+      }
+    ]
+  },
+  {
+    "name": "iPhone 8",
+    "year": "2017",
+    "image": "iphone-8/todas-as-cores.jpg",
+    "colors": [
+      {
+        "name": "Gold",
+        "hex": "#F4E8DF",
+        "image": "iphone-8/gold/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone10,1/Gold.png"
+      },
+      {
+        "name": "(PRODUCT)RED",
+        "hex": "#BB0F30",
+        "image": "iphone-8/product-red/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone10,1/(PRODUCT)RED.png"
+      },
+      {
+        "name": "Silver",
+        "hex": "#E9EAEC",
+        "image": "iphone-8/silver/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone10,1/Silver.png"
+      },
+      {
+        "name": "Space Gray",
+        "hex": "#262628",
+        "image": "iphone-8/space-gray/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone10,1/Space Gray.png"
+      }
+    ]
+  },
+  {
+    "name": "iPhone 8 Plus",
+    "year": "2017",
+    "image": "iphone-8-plus/todas-as-cores.jpg",
+    "colors": [
+      {
+        "name": "Gold",
+        "hex": "#F4E8DF",
+        "image": "iphone-8-plus/gold/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone10,2/Gold.png"
+      },
+      {
+        "name": "(PRODUCT)RED",
+        "hex": "#BB0F30",
+        "image": "iphone-8-plus/product-red/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone10,2/(PRODUCT)RED.png"
+      },
+      {
+        "name": "Silver",
+        "hex": "#E9EAEC",
+        "image": "iphone-8-plus/silver/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone10,2/Silver.png"
+      },
+      {
+        "name": "Space Gray",
+        "hex": "#262628",
+        "image": "iphone-8-plus/space-gray/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone10,2/Space Gray.png"
+      }
+    ]
+  },
+  {
+    "name": "iPhone 7",
+    "year": "2016",
+    "image": "iphone-7/todas-as-cores.jpg",
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#222326",
+        "image": "iphone-7/black/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone9,1/Black.png"
+      },
+      {
+        "name": "Gold",
+        "hex": "#E8CEB7",
+        "image": "iphone-7/gold/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone9,1/Gold.png"
+      },
+      {
+        "name": "Jet Black",
+        "hex": "#000000",
+        "image": "iphone-7/jet-black/imagem.png",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone9,1/Jet Black.png"
+      },
+      {
+        "name": "(PRODUCT)RED",
+        "hex": "#AE2531",
+        "image": "iphone-7/product-red/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone9,1/(PRODUCT)RED.png"
+      },
+      {
+        "name": "Rose Gold",
+        "hex": "#E6BAB6",
+        "image": "iphone-7/rose-gold/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone9,1/Rose Gold.png"
+      },
+      {
+        "name": "Silver",
+        "hex": "#CCCDCF",
+        "image": "iphone-7/silver/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone9,1/Silver.png"
+      }
+    ]
+  },
+  {
+    "name": "iPhone 7 Plus",
+    "year": "2016",
+    "image": "iphone-7-plus/todas-as-cores.jpg",
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#222326",
+        "image": "iphone-7-plus/black/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone9,2/Black.png"
+      },
+      {
+        "name": "Gold",
+        "hex": "#E8CEB7",
+        "image": "iphone-7-plus/gold/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone9,2/Gold.png"
+      },
+      {
+        "name": "Jet Black",
+        "hex": "#000000",
+        "image": "iphone-7-plus/jet-black/imagem.png",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone9,2/Jet Black.png"
+      },
+      {
+        "name": "(PRODUCT)RED",
+        "hex": "#AE2531",
+        "image": "iphone-7-plus/product-red/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone9,2/(PRODUCT)RED.png"
+      },
+      {
+        "name": "Rose Gold",
+        "hex": "#E6BAB6",
+        "image": "iphone-7-plus/rose-gold/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone9,2/Rose Gold.png"
+      },
+      {
+        "name": "Silver",
+        "hex": "#CCCDCF",
+        "image": "iphone-7-plus/silver/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone9,2/Silver.png"
+      }
+    ]
+  },
+  {
+    "name": "iPhone SE (1st generation)",
+    "year": "2016",
+    "image": "iphone-se-1st-generation/todas-as-cores.jpg",
+    "colors": [
+      {
+        "name": "Gold",
+        "hex": "#DBC3AB FAFAFC",
+        "image": "iphone-se-1st-generation/gold/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone8,4/Gold.png"
+      },
+      {
+        "name": "Rose Gold",
+        "hex": "#DDB3B0 FAFAFC",
+        "image": "iphone-se-1st-generation/rose-gold/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone8,4/Rose Gold.png"
+      },
+      {
+        "name": "Silver",
+        "hex": "#CCCCCE FAFAFC",
+        "image": "iphone-se-1st-generation/silver/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone8,4/Silver.png"
+      },
+      {
+        "name": "Space Gray",
+        "hex": "#9F9EA5 000000",
+        "image": "iphone-se-1st-generation/space-gray/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone8,4/Space Gray.png"
+      }
+    ]
+  },
+  {
+    "name": "iPhone 6s",
+    "year": "2015",
+    "image": "iphone-6s/todas-as-cores.jpg",
+    "colors": [
+      {
+        "name": "Gold",
+        "hex": "#DAC2AA",
+        "image": "iphone-6s/gold/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone8,1/Gold.png"
+      },
+      {
+        "name": "Rose Gold",
+        "hex": "#E2B7B2",
+        "image": "iphone-6s/rose-gold/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone8,1/Rose Gold.png"
+      },
+      {
+        "name": "Silver",
+        "hex": "#D9D9DB",
+        "image": "iphone-6s/silver/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone8,1/Silver.png"
+      },
+      {
+        "name": "Space Gray",
+        "hex": "#A9AAAF",
+        "image": "iphone-6s/space-gray/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone8,1/Space Gray.png"
+      }
+    ]
+  },
+  {
+    "name": "iPhone 6s Plus",
+    "year": "2015",
+    "image": "iphone-6s-plus/todas-as-cores.jpg",
+    "colors": [
+      {
+        "name": "Gold",
+        "hex": "#DAC2AA",
+        "image": "iphone-6s-plus/gold/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone8,2/Gold.png"
+      },
+      {
+        "name": "Rose Gold",
+        "hex": "#E2B7B2",
+        "image": "iphone-6s-plus/rose-gold/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone8,2/Rose Gold.png"
+      },
+      {
+        "name": "Silver",
+        "hex": "#D9D9DB",
+        "image": "iphone-6s-plus/silver/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone8,2/Silver.png"
+      },
+      {
+        "name": "Space Gray",
+        "hex": "#A9AAAF",
+        "image": "iphone-6s-plus/space-gray/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone8,2/Space Gray.png"
+      }
+    ]
+  },
+  {
+    "name": "iPhone 6",
+    "year": "2014",
+    "image": "iphone-6/todas-as-cores.jpg",
+    "colors": [
+      {
+        "name": "Gold",
+        "hex": "#D5BEAA",
+        "image": "iphone-6/gold/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone7,2/Gold.png"
+      },
+      {
+        "name": "Silver",
+        "hex": "#DCDDDF",
+        "image": "iphone-6/silver/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone7,2/Silver.png"
+      },
+      {
+        "name": "Space Gray",
+        "hex": "#9D9EA3",
+        "image": "iphone-6/space-gray/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone7,2/Space Gray.png"
+      }
+    ]
+  },
+  {
+    "name": "iPhone 6 Plus",
+    "year": "2014",
+    "image": "iphone-6-plus/todas-as-cores.jpg",
+    "colors": [
+      {
+        "name": "Gold",
+        "hex": "#D5BEAA",
+        "image": "iphone-6-plus/gold/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone7,1/Gold.png"
+      },
+      {
+        "name": "Silver",
+        "hex": "#DCDDDF",
+        "image": "iphone-6-plus/silver/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone7,1/Silver.png"
+      },
+      {
+        "name": "Space Gray",
+        "hex": "#9D9EA3",
+        "image": "iphone-6-plus/space-gray/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone7,1/Space Gray.png"
+      }
+    ]
+  },
+  {
+    "name": "iPhone 5s",
+    "year": "2013",
+    "image": "iphone-5s/todas-as-cores.jpg",
+    "colors": [
+      {
+        "name": "Gold",
+        "hex": "#CDBCA8 F8F9FB",
+        "image": "iphone-5s/gold/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone6,1/Gold.png"
+      },
+      {
+        "name": "Silver",
+        "hex": "#C9CBCA F8F9FB",
+        "image": "iphone-5s/silver/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone6,1/Silver.png"
+      },
+      {
+        "name": "Space Gray",
+        "hex": "#757577 010004",
+        "image": "iphone-5s/space-gray/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone6,1/Space Gray.png"
+      }
+    ]
+  },
+  {
+    "name": "iPhone 5c",
+    "year": "2013",
+    "image": "iphone-5c/todas-as-cores.jpg",
+    "colors": [
+      {
+        "name": "Blue",
+        "hex": "#40B0EA",
+        "image": "iphone-5c/blue/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone5,3/Blue.png"
+      },
+      {
+        "name": "Green",
+        "hex": "#98E467",
+        "image": "iphone-5c/green/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone5,3/Green.png"
+      },
+      {
+        "name": "Pink",
+        "hex": "#FF6C6C",
+        "image": "iphone-5c/pink/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone5,3/Pink.png"
+      },
+      {
+        "name": "White",
+        "hex": "#F0F0F2",
+        "image": "iphone-5c/white/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone5,3/White.png"
+      },
+      {
+        "name": "Yellow",
+        "hex": "#FFEF6F",
+        "image": "iphone-5c/yellow/produto.jpg",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone5,3/Yellow.png"
+      }
+    ]
+  },
+  {
+    "name": "iPhone 5",
+    "year": "2012",
+    "image": "iphone-5/todas-as-cores.jpg",
+    "colors": [
+      {
+        "name": "Black & Slate",
+        "hex": "#273037 070707",
+        "image": "iphone-5/black-slate/imagem.jpg",
+        "source": "https://github.com/orcastor/phone_images/blob/master/ios/iPhone%205%20Black.jpg"
+      },
+      {
+        "name": "White & Silver",
+        "hex": "#CBCDCC F8F9FB",
+        "image": "iphone-5/white-silver/imagem.jpg",
+        "source": "https://github.com/orcastor/phone_images/blob/master/ios/iPhone%205%20White.jpg"
+      }
+    ]
+  },
+  {
+    "name": "iPhone 4s",
+    "year": "2011",
+    "image": "iphone-4s/todas-as-cores.jpg",
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#000000",
+        "image": "iphone-4s/black/produto.jpg",
+        "source": "https://github.com/orcastor/phone_images/blob/master/ios/iPhone%204S%20Black.jpg"
+      },
+      {
+        "name": "White",
+        "hex": "#EDEDED",
+        "image": "iphone-4s/white/produto.jpg",
+        "source": "https://github.com/orcastor/phone_images/blob/master/ios/iPhone%204S%20White.jpg"
+      }
+    ]
+  },
+  {
+    "name": "iPhone 4",
+    "year": "2010",
+    "image": "iphone-4/todas-as-cores.jpg",
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#000000",
+        "image": "iphone-4/black/produto.jpg",
+        "source": "https://github.com/orcastor/phone_images/blob/master/ios/iPhone%204%20Black.jpg"
+      },
+      {
+        "name": "White",
+        "hex": "#EBEBEB",
+        "image": "iphone-4/white/produto.jpg",
+        "source": "https://github.com/orcastor/phone_images/blob/master/ios/iPhone%204%20White.jpg"
+      }
+    ]
+  },
+  {
+    "name": "iPhone 3GS",
+    "year": "2009",
+    "image": "iphone-3gs/todas-as-cores.jpg",
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#000000",
+        "image": "iphone-3gs/black/imagem.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:IPhone_3GS_(black)_with_screen_down.jpg"
+      },
+      {
+        "name": "White",
+        "hex": "#F1F1F3",
+        "image": "iphone-3gs/white/imagem.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:White_-_iPhone_3GS._(5290540382).jpg"
+      }
+    ]
+  },
+  {
+    "name": "iPhone 3G",
+    "year": "2008",
+    "image": "iphone-3g/todas-as-cores.jpg",
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#000000",
+        "image": "iphone-3g/black/imagem.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:IPhone_3G_rear.jpg"
+      },
+      {
+        "name": "White",
+        "hex": "#F1F1F3",
+        "image": "iphone-3g/white/imagem.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:IPhone_3G_White.jpg"
+      }
+    ]
+  },
+  {
+    "name": "iPhone",
+    "year": "2007",
+    "image": "iphone/todas-as-cores.jpg",
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#B3B9BB 090E13",
+        "image": "iphone/black/imagem.png",
+        "source": "https://github.com/littlebyteorg/apple-device-images/blob/main/device/iPhone1,1.png"
+      }
+    ]
+  }
+]
