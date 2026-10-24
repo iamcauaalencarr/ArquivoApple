@@ -1,50 +1,78 @@
+<div align="center">
+
+<img src="assets/logo-arquivo-apple.png" alt="Logo Arquivo Apple" width="144">
+
 # Arquivo Apple
+### Uma história de design. Um arquivo de cores.
 
-Acervo visual de iPhones, iPads e MacBooks, organizado por modelo, versão e cor.
+Acervo visual de **iPhones, iPads e MacBooks**, organizado por família, modelo e acabamento.
 
-## Catálogo
+**219 modelos e versões** · **551 combinações de cor** · **Galeria interativa**
 
-| Família | Modelos e versões |
-|---|---:|
-| iPhone | 55 |
-| iPad, iPad mini, iPad Air e iPad Pro | 45 |
-| MacBook, MacBook Air, MacBook Pro e MacBook Neo | 119 |
-| Total | 219 |
+[📱 iPhones](iphones/) · [▣ iPads](ipads/) · [💻 MacBooks](macbooks/) · [📋 Catálogo completo](indice-completo.csv)
 
-551 combinações de modelo/versão e cor. Coleta em 23/10/2026. A contagem de MacBooks inclui versões por ano, tamanho, chip e configuração identificada pela fonte; não equivale a 119 desenhos de gabinete diferentes.
+</div>
 
-## Abrir a galeria
+---
 
-Abra [index.html](index.html) ou [galeria.html](galeria.html) no navegador. Não exige instalação ou servidor. Use os filtros de família, ano e busca. Cada cartão tem seletores de cor e a opção Todas. Para MacBooks, Todas reúne as fotos individuais em uma composição na própria página; para iPhones e iPads, utiliza a imagem geral de identificação da Apple quando disponível.
+## Explore a coleção
 
-## Arquivos
+| Coleção | Modelos e versões | Organização |
+| :--- | ---: | :--- |
+| [📱 iPhones](iphones/) | **55** | Modelo → cor → imagens |
+| [▣ iPads](ipads/) | **45** | iPad, mini, Air e Pro → modelo → cor |
+| [💻 MacBooks](macbooks/) | **119** | MacBook, Air, Pro e Neo → versão → cor |
 
-- `iphone-*/`: acervo original de iPhones.
-- `ipads/`: imagens por modelo e cor de iPad.
-- `macbooks/`: imagens por versão e cor de MacBook.
-- `catalogo-galeria.json`: dados utilizados pela galeria.
-- `indice-completo.json` e `indice-completo.csv`: catálogo unificado das 551 combinações.
-- `indice-ipads-macbooks.json` e `indice-ipads-macbooks.csv`: somente os novos aparelhos.
-- `indice.json` e `indice.csv`: índice original dos iPhones.
-- `dimensoes*.csv`: resoluções originais dos arquivos verificados.
-- `fonte.json`, `fonte-produto.json` e `*.fonte.json`: origem por arquivo, incluindo URL de download.
+As versões podem variar por ano, tamanho, chip e configuração. A contagem não representa necessariamente desenhos de gabinete diferentes.
 
-## Cobertura e fontes
+## Sua coleção, em uma galeria
 
-As páginas de identificação da Apple foram usadas como referência para iPads e MacBooks. O AppleDB complementa modelos históricos e variantes. Os modelos e suas cores são vinculados por identificadores de hardware; imagens compartilhadas entre variantes seguem o campo imageKey do acervo de origem. Não foram incluídos protótipos ou aparelhos classificados como não lançados.
+Baixe o repositório e abra **[index.html](index.html)** no navegador. Tudo funciona localmente, sem instalação ou servidor.
 
-- https://support.apple.com/en-us/108044
-- https://support.apple.com/en-us/108043
-- https://support.apple.com/en-us/103257
-- https://support.apple.com/en-us/102869
-- https://support.apple.com/en-us/108052
-- https://github.com/littlebyteorg/appledb
-- https://github.com/littlebyteorg/apple-device-images
-- https://github.com/orcastor/phone_images
-- Wikimedia Commons e EveryMac: links específicos nos registros de origem.
+- **Todas as cores primeiro:** veja os acabamentos lado a lado.
+- **Escolha um acabamento:** clique no seletor para trocar a imagem.
+- **Encontre mais rápido:** busque por modelo ou cor e filtre por família e ano.
+- **Veja de perto:** clique na foto para ampliar.
+- **Navegue no seu ritmo:** ordene por nome ou ano e carregue mais modelos conforme precisar.
 
-As imagens variam em resolução e enquadramento. Algumas mostram apenas a frente; outras mostram a traseira ou ambas. Não se garante uma dupla de vistas por cor. As imagens gerais de alguns aparelhos podem repetir a vista de uma única cor quando essa é a única disponível para o modelo.
+> No GitHub, o HTML aparece como código. Para usar a galeria, abra o arquivo baixado em seu navegador.
 
-## Direitos
+## Organização dos arquivos
 
-Os direitos das imagens permanecem com seus respectivos titulares. A inclusão neste repositório não concede licença de publicação ou uso comercial. Imagens do Wikimedia Commons têm suas atribuições e licenças nos registros de origem. Projeto independente, sem afiliação com a Apple.
+```text
+ArquivoApple/
+├── iphones/                 # Todos os modelos de iPhone
+│   └── iphone-…/
+│       └── cor/
+├── ipads/                   # iPad, mini, Air e Pro
+│   └── modelo/
+│       └── cor/
+├── macbooks/                # MacBook, Air, Pro e Neo
+│   └── modelo/
+│       └── cor/
+├── index.html               # Galeria interativa
+├── galeria.html             # Entrada alternativa
+├── catalogo-galeria.json     # Dados da galeria
+├── indice-completo.csv      # Catálogo para planilhas
+└── indice-completo.json     # Catálogo para integrações
+```
+
+Os registros `fonte.json`, `fonte-produto.json` e `*.fonte.json` acompanham as imagens e identificam sua origem. Os arquivos `dimensoes*.csv` registram as resoluções verificadas. Os nomes das cores nas pastas são preservados em inglês para facilitar a consulta às fontes.
+
+## Fontes e cobertura
+
+A coleção reúne imagens disponíveis na web, com referências da [Apple](https://support.apple.com/), do [AppleDB](https://github.com/littlebyteorg/appledb) e dos acervos [Apple Device Images](https://github.com/littlebyteorg/apple-device-images) e [Phone Images](https://github.com/orcastor/phone_images). Referências específicas do Wikimedia Commons e EveryMac constam nos registros de origem.
+
+As fotos variam em resolução e enquadramento: podem mostrar frente, traseira ou ambas. Algumas variantes compartilham imagens conforme o acervo de origem. Consulte os registros de cada arquivo para verificar a procedência.
+
+## Créditos e direitos de uso
+
+Projeto independente, sem afiliação com a Apple. Marcas e imagens pertencem aos seus respectivos titulares. A inclusão no acervo não concede licença de uso comercial ou republicação; consulte a fonte e a licença de cada imagem antes de reutilizá-la.
+
+---
+
+<div align="center">
+
+**Arquivo Apple** · Design, gerações e cores em um só lugar.
+
+</div>
