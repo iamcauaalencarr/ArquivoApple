@@ -1,0 +1,11 @@
+{
+  "model": "MacBook Pro (15-inch, Mid 2012)",
+  "cor": "Silver",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/MacBookPro8%2C2-Late-2011/Silver.png",
+  "file": "macbooks/macbook-pro-15-inch-mid-2012/silver/imagem.png",
+  "source": "https://support.apple.com/en-us/108052",
+  "kind": "color",
+  "hex": "C0C0C0",
+  "key": "MacBookPro9,1",
+  "asset_path": "device/MacBookPro8,2-Late-2011/Silver.png"
+}

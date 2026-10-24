@@ -1,0 +1,11 @@
+{
+  "model": "iPad (10th generation)",
+  "cor": "Yellow",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/iPad13%2C18/Yellow.png",
+  "file": "ipads/ipad-10th-generation/yellow/imagem.png",
+  "source": "https://support.apple.com/en-us/108043",
+  "kind": "color",
+  "hex": "CDB546",
+  "key": "iPad13,18",
+  "asset_path": "device/iPad13,18/Yellow.png"
+}

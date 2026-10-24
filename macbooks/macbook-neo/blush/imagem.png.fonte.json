@@ -1,0 +1,11 @@
+{
+  "model": "MacBook Neo",
+  "cor": "Blush",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/Mac17%2C5/Blush.png",
+  "file": "macbooks/macbook-neo/blush/imagem.png",
+  "source": "https://github.com/littlebyteorg/appledb/blob/main/deviceFiles/Macbook%20Neo/Mac17%2C5.json",
+  "kind": "color",
+  "hex": "E9D4D3",
+  "key": "Mac17,5",
+  "asset_path": "device/Mac17,5/Blush.png"
+}

@@ -1,0 +1,11 @@
+{
+  "model": "iPad Air",
+  "cor": "Space Gray",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/iPad4%2C1/Space%20Gray.png",
+  "file": "ipads/ipad-air/space-gray/imagem.png",
+  "source": "https://support.apple.com/en-us/108043",
+  "kind": "color",
+  "hex": "717075",
+  "key": "iPad4,1",
+  "asset_path": "device/iPad4,1/Space Gray.png"
+}

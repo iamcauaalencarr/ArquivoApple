@@ -1,0 +1,11 @@
+{
+  "model": "iPad (8th generation)",
+  "cor": "Gold",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/iPad11%2C6/Gold.png",
+  "file": "ipads/ipad-8th-generation/gold/imagem.png",
+  "source": "https://support.apple.com/en-us/108043",
+  "kind": "color",
+  "hex": "EEC1AE",
+  "key": "iPad11,6",
+  "asset_path": "device/iPad11,6/Gold.png"
+}

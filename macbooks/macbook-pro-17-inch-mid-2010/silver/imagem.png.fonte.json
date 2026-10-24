@@ -1,0 +1,11 @@
+{
+  "model": "MacBook Pro (17-inch, Mid 2010)",
+  "cor": "Silver",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/MacBookPro6%2C1/Silver.png",
+  "file": "macbooks/macbook-pro-17-inch-mid-2010/silver/imagem.png",
+  "source": "https://support.apple.com/en-us/108052",
+  "kind": "color",
+  "hex": "C0C0C0",
+  "key": "MacBookPro6,1",
+  "asset_path": "device/MacBookPro6,1/Silver.png"
+}

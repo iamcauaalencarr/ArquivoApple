@@ -1,0 +1,11 @@
+{
+  "model": "MacBook Air (M1, 2020)",
+  "cor": "Silver",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/MacBookAir10%2C1/Silver.png",
+  "file": "macbooks/macbook-air-m1-2020/silver/imagem.png",
+  "source": "https://support.apple.com/en-us/102869",
+  "kind": "color",
+  "hex": "C7C8CB",
+  "key": "MacBookAir10,1",
+  "asset_path": "device/MacBookAir10,1/Silver.png"
+}

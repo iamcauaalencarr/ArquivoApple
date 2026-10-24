@@ -1,0 +1,11 @@
+{
+  "model": "MacBook Pro (13-inch, 2016, Four Thunderbolt 3 ports)",
+  "cor": "Space Gray",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/MacBookPro13%2C2/Space%20Gray.png",
+  "file": "macbooks/macbook-pro-13-inch-2016-four-thunderbolt-3-ports/space-gray/imagem.png",
+  "source": "https://support.apple.com/en-us/108052",
+  "kind": "color",
+  "hex": "939799",
+  "key": "MacBookPro13,2",
+  "asset_path": "device/MacBookPro13,2/Space Gray.png"
+}

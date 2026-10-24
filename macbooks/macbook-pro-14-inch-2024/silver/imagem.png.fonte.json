@@ -1,0 +1,11 @@
+{
+  "model": "MacBook Pro (14-inch, 2024)",
+  "cor": "Silver",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/Mac15%2C6/Silver.png",
+  "file": "macbooks/macbook-pro-14-inch-2024/silver/imagem.png",
+  "source": "https://support.apple.com/en-us/108052",
+  "kind": "color",
+  "hex": "ACADAF",
+  "key": "Mac16,6",
+  "asset_path": "device/Mac15,6/Silver.png"
+}

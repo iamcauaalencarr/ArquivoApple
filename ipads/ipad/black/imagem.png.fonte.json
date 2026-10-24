@@ -1,0 +1,11 @@
+{
+  "model": "iPad",
+  "cor": "Black",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/iPad1%2C1/Black.png",
+  "file": "ipads/ipad/black/imagem.png",
+  "source": "https://support.apple.com/en-us/108043",
+  "kind": "color",
+  "hex": "000000",
+  "key": "iPad1,1",
+  "asset_path": "device/iPad1,1/Black.png"
+}

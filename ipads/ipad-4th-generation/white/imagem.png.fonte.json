@@ -1,0 +1,11 @@
+{
+  "model": "iPad (4th generation)",
+  "cor": "White",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/iPad3%2C1/White.png",
+  "file": "ipads/ipad-4th-generation/white/imagem.png",
+  "source": "https://support.apple.com/en-us/108043",
+  "kind": "color",
+  "hex": "F4F4F4",
+  "key": "iPad3,4",
+  "asset_path": "device/iPad3,1/White.png"
+}

@@ -1,0 +1,11 @@
+{
+  "model": "MacBook Air (M1, 2020)",
+  "cor": "Space Gray",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/MacBookAir10%2C1/Space%20Gray.png",
+  "file": "macbooks/macbook-air-m1-2020/space-gray/imagem.png",
+  "source": "https://support.apple.com/en-us/102869",
+  "kind": "color",
+  "hex": "94959B",
+  "key": "MacBookAir10,1",
+  "asset_path": "device/MacBookAir10,1/Space Gray.png"
+}

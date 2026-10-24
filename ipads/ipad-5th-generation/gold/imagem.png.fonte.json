@@ -1,0 +1,11 @@
+{
+  "model": "iPad (5th generation)",
+  "cor": "Gold",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/iPad6%2C11/Gold.png",
+  "file": "ipads/ipad-5th-generation/gold/imagem.png",
+  "source": "https://support.apple.com/en-us/108043",
+  "kind": "color",
+  "hex": "E7D0B5",
+  "key": "iPad6,11",
+  "asset_path": "device/iPad6,11/Gold.png"
+}

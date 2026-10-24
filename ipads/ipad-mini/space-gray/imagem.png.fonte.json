@@ -1,0 +1,11 @@
+{
+  "model": "iPad mini",
+  "cor": "Space Gray",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/iPad2%2C5/Space%20Gray.png",
+  "file": "ipads/ipad-mini/space-gray/imagem.png",
+  "source": "https://support.apple.com/en-us/108043",
+  "kind": "color",
+  "hex": "404246",
+  "key": "iPad2,5",
+  "asset_path": "device/iPad2,5/Space Gray.png"
+}

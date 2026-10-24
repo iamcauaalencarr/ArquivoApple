@@ -1,0 +1,11 @@
+{
+  "model": "MacBook Air (11-inch, Mid 2012)",
+  "cor": "Silver",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/MacBookAir5%2C1/Silver.png",
+  "file": "macbooks/macbook-air-11-inch-mid-2012/silver/imagem.png",
+  "source": "https://support.apple.com/en-us/102869",
+  "kind": "color",
+  "hex": "AEAFB3",
+  "key": "MacBookAir5,1",
+  "asset_path": "device/MacBookAir5,1/Silver.png"
+}

@@ -1,0 +1,11 @@
+{
+  "model": "MacBook Air (13-inch, M5)",
+  "cor": "Silver",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/Mac16%2C12/Silver.png",
+  "file": "macbooks/macbook-air-13-inch-m5/silver/imagem.png",
+  "source": "https://support.apple.com/en-us/102869",
+  "kind": "color",
+  "hex": "ABABAE",
+  "key": "Mac17,3",
+  "asset_path": "device/Mac16,12/Silver.png"
+}

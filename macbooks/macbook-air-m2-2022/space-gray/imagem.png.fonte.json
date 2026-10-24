@@ -1,0 +1,11 @@
+{
+  "model": "MacBook Air (M2, 2022)",
+  "cor": "Space Gray",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/Mac14%2C2/Space%20Gray.png",
+  "file": "macbooks/macbook-air-m2-2022/space-gray/imagem.png",
+  "source": "https://support.apple.com/en-us/102869",
+  "kind": "color",
+  "hex": "47484A",
+  "key": "Mac14,2",
+  "asset_path": "device/Mac14,2/Space Gray.png"
+}

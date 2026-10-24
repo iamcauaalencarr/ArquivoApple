@@ -1,0 +1,11 @@
+{
+  "model": "MacBook Air (M2, 2022)",
+  "cor": "Silver",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/Mac14%2C2/Silver.png",
+  "file": "macbooks/macbook-air-m2-2022/silver/imagem.png",
+  "source": "https://support.apple.com/en-us/102869",
+  "kind": "color",
+  "hex": "ABABAE",
+  "key": "Mac14,2",
+  "asset_path": "device/Mac14,2/Silver.png"
+}

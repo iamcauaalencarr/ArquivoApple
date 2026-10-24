@@ -1,0 +1,11 @@
+{
+  "model": "MacBook Air (13-inch, Late 2010)",
+  "cor": "Silver",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/MacBookAir3%2C2/Silver.png",
+  "file": "macbooks/macbook-air-13-inch-late-2010/silver/imagem.png",
+  "source": "https://support.apple.com/en-us/102869",
+  "kind": "color",
+  "hex": "AEAFB3",
+  "key": "MacBookAir3,2",
+  "asset_path": "device/MacBookAir3,2/Silver.png"
+}

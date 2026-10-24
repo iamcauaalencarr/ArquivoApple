@@ -1,0 +1,11 @@
+{
+  "model": "MacBook (Retina, 12-inch, Early 2015)",
+  "cor": "Space Gray",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/MacBook8%2C1/Space%20Gray.png",
+  "file": "macbooks/macbook-retina-12-inch-early-2015/space-gray/imagem.png",
+  "source": "https://github.com/littlebyteorg/appledb/blob/main/deviceFiles/Macbook/MacBook8%2C1.json",
+  "kind": "color",
+  "hex": "9EA2A5",
+  "key": "MacBook8,1",
+  "asset_path": "device/MacBook8,1/Space Gray.png"
+}

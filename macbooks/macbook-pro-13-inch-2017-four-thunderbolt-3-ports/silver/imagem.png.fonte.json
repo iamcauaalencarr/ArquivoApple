@@ -1,0 +1,11 @@
+{
+  "model": "MacBook Pro (13-inch, 2017, Four Thunderbolt 3 ports)",
+  "cor": "Silver",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/MacBookPro13%2C2/Silver.png",
+  "file": "macbooks/macbook-pro-13-inch-2017-four-thunderbolt-3-ports/silver/imagem.png",
+  "source": "https://support.apple.com/en-us/108052",
+  "kind": "color",
+  "hex": "DBDCDE",
+  "key": "MacBookPro14,2",
+  "asset_path": "device/MacBookPro13,2/Silver.png"
+}

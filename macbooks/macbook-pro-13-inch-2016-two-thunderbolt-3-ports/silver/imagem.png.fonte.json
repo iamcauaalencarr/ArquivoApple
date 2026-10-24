@@ -1,0 +1,11 @@
+{
+  "model": "MacBook Pro (13-inch, 2016, Two Thunderbolt 3 ports)",
+  "cor": "Silver",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/MacBookPro13%2C1/Silver.png",
+  "file": "macbooks/macbook-pro-13-inch-2016-two-thunderbolt-3-ports/silver/imagem.png",
+  "source": "https://support.apple.com/en-us/108052",
+  "kind": "color",
+  "hex": "DDDFE0",
+  "key": "MacBookPro13,1",
+  "asset_path": "device/MacBookPro13,1/Silver.png"
+}

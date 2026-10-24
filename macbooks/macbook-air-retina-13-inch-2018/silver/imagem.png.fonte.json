@@ -1,0 +1,11 @@
+{
+  "model": "MacBook Air (Retina, 13-inch, 2018)",
+  "cor": "Silver",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/MacBookAir8%2C1/Silver.png",
+  "file": "macbooks/macbook-air-retina-13-inch-2018/silver/imagem.png",
+  "source": "https://support.apple.com/en-us/102869",
+  "kind": "color",
+  "hex": "C7C8CB",
+  "key": "MacBookAir8,1",
+  "asset_path": "device/MacBookAir8,1/Silver.png"
+}

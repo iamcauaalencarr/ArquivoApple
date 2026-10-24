@@ -1,0 +1,11 @@
+{
+  "model": "MacBook Pro (15-inch, 2017)",
+  "cor": "Silver",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/MacBookPro13%2C3/Silver.png",
+  "file": "macbooks/macbook-pro-15-inch-2017/silver/imagem.png",
+  "source": "https://support.apple.com/en-us/108052",
+  "kind": "color",
+  "hex": "DBDCDE",
+  "key": "MacBookPro14,3",
+  "asset_path": "device/MacBookPro13,3/Silver.png"
+}

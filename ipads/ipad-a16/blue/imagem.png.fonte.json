@@ -1,0 +1,11 @@
+{
+  "model": "iPad (A16)",
+  "cor": "Blue",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/iPad13%2C18/Blue.png",
+  "file": "ipads/ipad-a16/blue/imagem.png",
+  "source": "https://support.apple.com/en-us/108043",
+  "kind": "color",
+  "hex": "627E9C",
+  "key": "iPad15,7",
+  "asset_path": "device/iPad13,18/Blue.png"
+}

@@ -1,0 +1,11 @@
+{
+  "model": "MacBook Pro (16-inch, 2024)",
+  "cor": "Space Black",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/Mac15%2C7/Space%20Black.png",
+  "file": "macbooks/macbook-pro-16-inch-2024/space-black/imagem.png",
+  "source": "https://support.apple.com/en-us/108052",
+  "kind": "color",
+  "hex": "252425",
+  "key": "Mac16,5",
+  "asset_path": "device/Mac15,7/Space Black.png"
+}

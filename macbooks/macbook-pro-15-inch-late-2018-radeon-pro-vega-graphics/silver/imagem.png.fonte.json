@@ -1,0 +1,11 @@
+{
+  "model": "MacBook Pro (15-inch, Late 2018, Radeon Pro Vega Graphics)",
+  "cor": "Silver",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/MacBookPro15%2C3-2018/Silver.png",
+  "file": "macbooks/macbook-pro-15-inch-late-2018-radeon-pro-vega-graphics/silver/imagem.png",
+  "source": "https://github.com/littlebyteorg/appledb/blob/main/deviceFiles/Macbook%20Pro/MacBookPro15%2C3-2018.json",
+  "kind": "color",
+  "hex": "DFE0E2",
+  "key": "MacBookPro15,3-2018",
+  "asset_path": "device/MacBookPro15,3-2018/Silver.png"
+}

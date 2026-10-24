@@ -1,0 +1,11 @@
+{
+  "model": "MacBook Pro (13-inch, M1, 2020)",
+  "cor": "Silver",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/MacBookPro17%2C1/Silver.png",
+  "file": "macbooks/macbook-pro-13-inch-m1-2020/silver/imagem.png",
+  "source": "https://support.apple.com/en-us/108052",
+  "kind": "color",
+  "hex": "DBDCDE",
+  "key": "MacBookPro17,1",
+  "asset_path": "device/MacBookPro17,1/Silver.png"
+}

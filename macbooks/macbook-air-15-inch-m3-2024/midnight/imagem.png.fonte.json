@@ -1,0 +1,11 @@
+{
+  "model": "MacBook Air (15-inch, M3, 2024)",
+  "cor": "Midnight",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/Mac14%2C15/Midnight.png",
+  "file": "macbooks/macbook-air-15-inch-m3-2024/midnight/imagem.png",
+  "source": "https://support.apple.com/en-us/102869",
+  "kind": "color",
+  "hex": "292E37",
+  "key": "Mac15,13",
+  "asset_path": "device/Mac14,15/Midnight.png"
+}

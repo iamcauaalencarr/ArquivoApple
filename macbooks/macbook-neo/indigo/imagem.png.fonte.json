@@ -1,0 +1,11 @@
+{
+  "model": "MacBook Neo",
+  "cor": "Indigo",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/Mac17%2C5/Indigo.png",
+  "file": "macbooks/macbook-neo/indigo/imagem.png",
+  "source": "https://github.com/littlebyteorg/appledb/blob/main/deviceFiles/Macbook%20Neo/Mac17%2C5.json",
+  "kind": "color",
+  "hex": "66728A",
+  "key": "Mac17,5",
+  "asset_path": "device/Mac17,5/Indigo.png"
+}

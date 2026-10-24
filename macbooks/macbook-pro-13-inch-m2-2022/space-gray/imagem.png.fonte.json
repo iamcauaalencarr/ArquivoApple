@@ -1,0 +1,11 @@
+{
+  "model": "MacBook Pro (13-inch, M2, 2022)",
+  "cor": "Space Gray",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/Mac14%2C7/Space%20Gray.png",
+  "file": "macbooks/macbook-pro-13-inch-m2-2022/space-gray/imagem.png",
+  "source": "https://support.apple.com/en-us/108052",
+  "kind": "color",
+  "hex": "7D7D81",
+  "key": "Mac14,7",
+  "asset_path": "device/Mac14,7/Space Gray.png"
+}

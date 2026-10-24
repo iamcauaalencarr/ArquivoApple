@@ -1,0 +1,11 @@
+{
+  "model": "iPad (7th generation)",
+  "cor": "Silver",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/iPad7%2C11/Silver.png",
+  "file": "ipads/ipad-7th-generation/silver/imagem.png",
+  "source": "https://support.apple.com/en-us/108043",
+  "kind": "color",
+  "hex": "CBCCCD",
+  "key": "iPad7,11",
+  "asset_path": "device/iPad7,11/Silver.png"
+}

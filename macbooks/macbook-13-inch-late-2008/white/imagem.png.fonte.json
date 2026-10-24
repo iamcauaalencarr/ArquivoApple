@@ -1,0 +1,11 @@
+{
+  "model": "MacBook (13-inch, Late 2008)",
+  "cor": "White",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/MacBook4%2C1-Late-2008/White.png",
+  "file": "macbooks/macbook-13-inch-late-2008/white/imagem.png",
+  "source": "https://github.com/littlebyteorg/appledb/blob/main/deviceFiles/Macbook/MacBook4%2C1-Late-2008.json",
+  "kind": "color",
+  "hex": "D9DDE0",
+  "key": "MacBook4,1-Late-2008",
+  "asset_path": "device/MacBook4,1-Late-2008/White.png"
+}

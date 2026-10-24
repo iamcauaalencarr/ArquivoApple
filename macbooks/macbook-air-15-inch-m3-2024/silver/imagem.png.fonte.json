@@ -1,0 +1,11 @@
+{
+  "model": "MacBook Air (15-inch, M3, 2024)",
+  "cor": "Silver",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/Mac14%2C15/Silver.png",
+  "file": "macbooks/macbook-air-15-inch-m3-2024/silver/imagem.png",
+  "source": "https://support.apple.com/en-us/102869",
+  "kind": "color",
+  "hex": "ABABAE",
+  "key": "Mac15,13",
+  "asset_path": "device/Mac14,15/Silver.png"
+}

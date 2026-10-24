@@ -1,0 +1,11 @@
+{
+  "model": "MacBook Air (Late 2008)",
+  "cor": "Silver",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/MacBookAir1%2C1/Silver.png",
+  "file": "macbooks/macbook-air-late-2008/silver/imagem.png",
+  "source": "https://github.com/littlebyteorg/appledb/blob/main/deviceFiles/Macbook%20Air/MacBookAir2%2C1-2008.json",
+  "kind": "color",
+  "hex": "AEAFB3",
+  "key": "MacBookAir2,1-2008",
+  "asset_path": "device/MacBookAir1,1/Silver.png"
+}

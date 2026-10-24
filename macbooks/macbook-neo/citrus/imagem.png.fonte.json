@@ -1,0 +1,11 @@
+{
+  "model": "MacBook Neo",
+  "cor": "Citrus",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/Mac17%2C5/Citrus.png",
+  "file": "macbooks/macbook-neo/citrus/imagem.png",
+  "source": "https://github.com/littlebyteorg/appledb/blob/main/deviceFiles/Macbook%20Neo/Mac17%2C5.json",
+  "kind": "color",
+  "hex": "DDDC8C",
+  "key": "Mac17,5",
+  "asset_path": "device/Mac17,5/Citrus.png"
+}

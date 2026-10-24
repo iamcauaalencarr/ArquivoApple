@@ -1,0 +1,11 @@
+{
+  "model": "MacBook Pro (Retina, 15-inch, Mid 2014, Integrated graphics)",
+  "cor": "Silver",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/MacBookPro11%2C2-Late-2013/Silver.png",
+  "file": "macbooks/macbook-pro-retina-15-inch-mid-2014-integrated-graphics/silver/imagem.png",
+  "source": "https://github.com/littlebyteorg/appledb/blob/main/deviceFiles/Macbook%20Pro/MacBookPro11%2C2-Mid-2014.json",
+  "kind": "color",
+  "hex": "C0C0C0",
+  "key": "MacBookPro11,2-Mid-2014",
+  "asset_path": "device/MacBookPro11,2-Late-2013/Silver.png"
+}

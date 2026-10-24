@@ -1,0 +1,11 @@
+{
+  "model": "MacBook Air (15-inch, M2, 2023)",
+  "cor": "Silver",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/Mac14%2C15/Silver.png",
+  "file": "macbooks/macbook-air-15-inch-m2-2023/silver/imagem.png",
+  "source": "https://support.apple.com/en-us/102869",
+  "kind": "color",
+  "hex": "ABABAE",
+  "key": "Mac14,15",
+  "asset_path": "device/Mac14,15/Silver.png"
+}

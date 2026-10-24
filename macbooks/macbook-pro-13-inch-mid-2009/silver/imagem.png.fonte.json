@@ -1,0 +1,11 @@
+{
+  "model": "MacBook Pro (13-inch, Mid 2009)",
+  "cor": "Silver",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/MacBookPro5%2C5/Silver.png",
+  "file": "macbooks/macbook-pro-13-inch-mid-2009/silver/imagem.png",
+  "source": "https://support.apple.com/en-us/108052",
+  "kind": "color",
+  "hex": "C0C0C0",
+  "key": "MacBookPro5,5",
+  "asset_path": "device/MacBookPro5,5/Silver.png"
+}

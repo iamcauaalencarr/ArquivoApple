@@ -1,0 +1,11 @@
+{
+  "model": "MacBook Pro (15-inch, Mid 2018)",
+  "cor": "Space Gray",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/MacBookPro15%2C1-2018/Space%20Gray.png",
+  "file": "macbooks/macbook-pro-15-inch-mid-2018/space-gray/imagem.png",
+  "source": "https://github.com/littlebyteorg/appledb/blob/main/deviceFiles/Macbook%20Pro/MacBookPro15%2C1-2018.json",
+  "kind": "color",
+  "hex": "979B9D",
+  "key": "MacBookPro15,1-2018",
+  "asset_path": "device/MacBookPro15,1-2018/Space Gray.png"
+}

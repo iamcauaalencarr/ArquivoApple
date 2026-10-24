@@ -1,0 +1,11 @@
+{
+  "model": "MacBook Pro (13-inch, M2, 2022)",
+  "cor": "Silver",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/Mac14%2C7/Silver.png",
+  "file": "macbooks/macbook-pro-13-inch-m2-2022/silver/imagem.png",
+  "source": "https://support.apple.com/en-us/108052",
+  "kind": "color",
+  "hex": "B7B8BB",
+  "key": "Mac14,7",
+  "asset_path": "device/Mac14,7/Silver.png"
+}

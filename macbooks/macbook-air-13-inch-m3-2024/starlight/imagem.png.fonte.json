@@ -1,0 +1,11 @@
+{
+  "model": "MacBook Air (13-inch, M3, 2024)",
+  "cor": "Starlight",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/Mac15%2C12/Starlight.png",
+  "file": "macbooks/macbook-air-13-inch-m3-2024/starlight/imagem.png",
+  "source": "https://support.apple.com/en-us/102869",
+  "kind": "color",
+  "hex": "BDB6AC",
+  "key": "Mac15,12",
+  "asset_path": "device/Mac15,12/Starlight.png"
+}

@@ -1,0 +1,11 @@
+{
+  "model": "MacBook Air (Mid 2009)",
+  "cor": "Silver",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/MacBookAir1%2C1/Silver.png",
+  "file": "macbooks/macbook-air-mid-2009/silver/imagem.png",
+  "source": "https://support.apple.com/en-us/102869",
+  "kind": "color",
+  "hex": "AEAFB3",
+  "key": "MacBookAir2,1-2008",
+  "asset_path": "device/MacBookAir1,1/Silver.png"
+}

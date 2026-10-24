@@ -1,0 +1,11 @@
+{
+  "model": "MacBook Pro (16-inch, 2023)",
+  "cor": "Space Gray",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/Mac14%2C6/Space%20Gray.png",
+  "file": "macbooks/macbook-pro-16-inch-2023/space-gray/imagem.png",
+  "source": "https://support.apple.com/en-us/108052",
+  "kind": "color",
+  "hex": "B7B8BB",
+  "key": "Mac14,10",
+  "asset_path": "device/Mac14,6/Space Gray.png"
+}

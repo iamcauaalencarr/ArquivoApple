@@ -1,0 +1,11 @@
+{
+  "model": "MacBook Air (15-inch, M5)",
+  "cor": "Sky Blue",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/Mac16%2C13/Sky%20Blue.png",
+  "file": "macbooks/macbook-air-15-inch-m5/sky-blue/imagem.png",
+  "source": "https://support.apple.com/en-us/102869",
+  "kind": "color",
+  "hex": "ACB6BC",
+  "key": "Mac17,4",
+  "asset_path": "device/Mac16,13/Sky Blue.png"
+}

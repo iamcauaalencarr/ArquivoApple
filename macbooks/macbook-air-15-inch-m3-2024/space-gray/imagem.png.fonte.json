@@ -1,0 +1,11 @@
+{
+  "model": "MacBook Air (15-inch, M3, 2024)",
+  "cor": "Space Gray",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/Mac14%2C15/Space%20Gray.png",
+  "file": "macbooks/macbook-air-15-inch-m3-2024/space-gray/imagem.png",
+  "source": "https://support.apple.com/en-us/102869",
+  "kind": "color",
+  "hex": "47484A",
+  "key": "Mac15,13",
+  "asset_path": "device/Mac14,15/Space Gray.png"
+}

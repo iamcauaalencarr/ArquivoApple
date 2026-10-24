@@ -1,0 +1,11 @@
+{
+  "model": "MacBook (Retina, 12-inch, Early 2015)",
+  "cor": "Silver",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/MacBook8%2C1/Silver.png",
+  "file": "macbooks/macbook-retina-12-inch-early-2015/silver/imagem.png",
+  "source": "https://github.com/littlebyteorg/appledb/blob/main/deviceFiles/Macbook/MacBook8%2C1.json",
+  "kind": "color",
+  "hex": "E2E3E6",
+  "key": "MacBook8,1",
+  "asset_path": "device/MacBook8,1/Silver.png"
+}

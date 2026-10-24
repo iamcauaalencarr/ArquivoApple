@@ -1,0 +1,11 @@
+{
+  "model": "iPad mini",
+  "cor": "Black & Slate",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/iPad2%2C5/Black%20%26%20Slate.png",
+  "file": "ipads/ipad-mini/black-slate/imagem.png",
+  "source": "https://support.apple.com/en-us/108043",
+  "kind": "color",
+  "hex": "414245",
+  "key": "iPad2,5",
+  "asset_path": "device/iPad2,5/Black & Slate.png"
+}

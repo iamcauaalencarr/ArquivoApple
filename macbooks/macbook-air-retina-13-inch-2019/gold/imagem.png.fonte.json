@@ -1,0 +1,11 @@
+{
+  "model": "MacBook Air (Retina, 13-inch, 2019)",
+  "cor": "Gold",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/MacBookAir8%2C2/Gold.png",
+  "file": "macbooks/macbook-air-retina-13-inch-2019/gold/imagem.png",
+  "source": "https://support.apple.com/en-us/102869",
+  "kind": "color",
+  "hex": "E7BCA9",
+  "key": "MacBookAir8,2",
+  "asset_path": "device/MacBookAir8,2/Gold.png"
+}

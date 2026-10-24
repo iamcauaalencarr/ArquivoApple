@@ -1,0 +1,11 @@
+{
+  "model": "iPad Pro (12.9-inch)",
+  "cor": "Gold",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/iPad6%2C7/Gold.png",
+  "file": "ipads/ipad-pro-12-9-inch/gold/imagem.png",
+  "source": "https://support.apple.com/en-us/108043",
+  "kind": "color",
+  "hex": "D7C1A9",
+  "key": "iPad6,7",
+  "asset_path": "device/iPad6,7/Gold.png"
+}

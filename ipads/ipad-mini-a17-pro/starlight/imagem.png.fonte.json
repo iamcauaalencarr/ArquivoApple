@@ -1,0 +1,11 @@
+{
+  "model": "iPad mini (A17 Pro)",
+  "cor": "Starlight",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/iPad16%2C1/Starlight.png",
+  "file": "ipads/ipad-mini-a17-pro/starlight/imagem.png",
+  "source": "https://support.apple.com/en-us/108043",
+  "kind": "color",
+  "hex": "CCC5BC",
+  "key": "iPad16,1",
+  "asset_path": "device/iPad16,1/Starlight.png"
+}

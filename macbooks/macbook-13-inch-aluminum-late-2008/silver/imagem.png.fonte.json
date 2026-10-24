@@ -1,0 +1,11 @@
+{
+  "model": "MacBook (13-inch, Aluminum, Late 2008)",
+  "cor": "Silver",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/MacBook5%2C1/Silver.png",
+  "file": "macbooks/macbook-13-inch-aluminum-late-2008/silver/imagem.png",
+  "source": "https://github.com/littlebyteorg/appledb/blob/main/deviceFiles/Macbook/MacBook5%2C1.json",
+  "kind": "color",
+  "hex": "E3E3E6",
+  "key": "MacBook5,1",
+  "asset_path": "device/MacBook5,1/Silver.png"
+}

@@ -1,0 +1,11 @@
+{
+  "model": "MacBook Pro (14-inch, 2021)",
+  "cor": "Space Gray",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/MacBookPro18%2C3/Space%20Gray.png",
+  "file": "macbooks/macbook-pro-14-inch-2021/space-gray/imagem.png",
+  "source": "https://support.apple.com/en-us/108052",
+  "kind": "color",
+  "hex": "6E6F73",
+  "key": "MacBookPro18,3",
+  "asset_path": "device/MacBookPro18,3/Space Gray.png"
+}

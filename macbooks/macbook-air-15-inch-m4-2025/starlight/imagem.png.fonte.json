@@ -1,0 +1,11 @@
+{
+  "model": "MacBook Air (15-inch, M4, 2025)",
+  "cor": "Starlight",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/Mac16%2C13/Starlight.png",
+  "file": "macbooks/macbook-air-15-inch-m4-2025/starlight/imagem.png",
+  "source": "https://support.apple.com/en-us/102869",
+  "kind": "color",
+  "hex": "BDB6AC",
+  "key": "Mac16,13",
+  "asset_path": "device/Mac16,13/Starlight.png"
+}

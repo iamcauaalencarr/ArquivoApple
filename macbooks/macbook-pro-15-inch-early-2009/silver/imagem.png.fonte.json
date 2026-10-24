@@ -1,0 +1,11 @@
+{
+  "model": "MacBook Pro (15-inch, Early 2009)",
+  "cor": "Silver",
+  "url": "https://raw.githubusercontent.com/littlebyteorg/apple-device-images/main/device/MacBookPro5%2C1-2008/Silver.png",
+  "file": "macbooks/macbook-pro-15-inch-early-2009/silver/imagem.png",
+  "source": "https://github.com/littlebyteorg/appledb/blob/main/deviceFiles/Macbook%20Pro/MacBookPro5%2C1-2009.json",
+  "kind": "color",
+  "hex": "C0C0C0",
+  "key": "MacBookPro5,1-2009",
+  "asset_path": "device/MacBookPro5,1-2008/Silver.png"
+}
